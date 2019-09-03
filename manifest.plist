@@ -13,6 +13,20 @@
 					<key>url</key>
 					<string>https://cdn.runtu123.com/app/uploads/qmyl.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://cdn.runtu123.com/app/html/images/icon/icon-1024.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://cdn.runtu123.com/app/html/images/icon/icon-57.png</string>
+				</dict>
+				
+				
 			</array>
 			<key>metadata</key>
 			<dict>
